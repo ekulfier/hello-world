@@ -33,7 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1
 	<br>
-   <h1>eee</h1>
-   <h2>Halo Coding</h2>
-  
+   <h1> Update V.2 </h1> 
 </form>
